@@ -1,4 +1,4 @@
-# Hi there, I'm - La Ode Lukmana [vincentwidyan](https://instagram/luk.luu_) 👋
+# Hi there, I'm [La Ode Lukmana](https://instagram/luk.luu_) 👋
 ## About me:
 - 🌱 I’m currently learning Laravel and Javascript
 - 👯 I’m looking to collaborate as Web Developer
