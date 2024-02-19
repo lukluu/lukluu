@@ -9,5 +9,5 @@
 ## Education:
 
 #### 1. [Universitas Halu Oleo](https://www.uho.ac.id) | Bachelor of Informatics Engineering | Kendari `2021-is going`
-   - Core Team GDSC UHO [https://www.instagram.com/gdsc.uho/]
+   - [Core Team GDSC UHO](https://www.instagram.com/gdsc.uho/)
 
