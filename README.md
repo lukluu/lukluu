@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm - La Ode Lukmana [vincentwidyan](https://instagram/luk.luu_) 👋
+## About me:
+- 🌱 I’m currently learning Laravel and Javascript
+- 👯 I’m looking to collaborate as Web Developer
+- 🤔 I’m looking for suggest for Rust Project Ideas
+- 💬 Ask me about anything
+- 📫 How to reach me: laode.lukmana88@gmail.com
+//
+## Education:
 
-<!--
-**lukluu/lukluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 1. [Universitas Halu Oleo](https://www.uho.ac.id) | Bachelor of Informatics Engineering | Kendari `2021-is going`
+   - Core Team GDSC UHO [https://www.instagram.com/gdsc.uho/]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
