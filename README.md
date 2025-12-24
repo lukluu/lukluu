@@ -1,7 +1,7 @@
 # Hi there, I'm [La Ode Lukmana](https://instagram/luk.luu_) 👋
 ## About me:
-- 🌱 I’m currently learning Laravel and Javascript
-- 👯 I’m looking to collaborate as Web Developer
+- 🌱 I’m currently learning Javascript, Laravel, NodeJS, Android Studio, Flutter
+- 👯 I’m looking to collaborate as Web - Mobile Developer - Backend Developer
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: laode.lukmana88@gmail.com
